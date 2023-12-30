@@ -25,7 +25,7 @@
 - 👨‍💻 All of my projects are available at [https://mahesh-langote.github.io/MaheshLangote/](https://mahesh-langote.github.io/MaheshLangote/)
 
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=14DU7-YvcHjdn1nfrrQhOsNvXSU2pXydW&usp=drive_fs](RESUME)
+- 📄 Know about my experiences [RESUME]([RESUME](https://drive.google.com/open?id=14DU7-YvcHjdn1nfrrQhOsNvXSU2pXydW&usp=drive_fs))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
