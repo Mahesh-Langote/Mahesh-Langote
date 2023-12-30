@@ -1,7 +1,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Mahesh Langote</h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h3 align="center">A passionate Full Stack developer. 💻</h3>
 
  
 
@@ -19,7 +19,7 @@
 - 📫 How to reach me **maheshlangote777@gmail.com**
 
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny 😁😁**
 
 
 - 👨‍💻 All of my projects are available at [https://mahesh-langote.github.io/MaheshLangote/](https://mahesh-langote.github.io/MaheshLangote/)
