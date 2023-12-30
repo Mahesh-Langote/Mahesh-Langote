@@ -12,9 +12,9 @@
  
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Cloud Computing & DevOps**
 
-- 💬 Ask me about **react, PHP, WebDevelopment**
+- 💬 Ask me about **React, PHP, Web-Development**
 
 - 📫 How to reach me **maheshlangote777@gmail.com**
 
