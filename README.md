@@ -24,7 +24,7 @@
 - ⚡ Fun fact **I am Funny 😁😁**
 
 
-- 👨‍💻 All of my projects are available at [https://mahesh-langote.github.io/MaheshLangote/](https://mahesh-langote.github.io/MaheshLangote/)
+- 👨‍💻 All of my projects are available at [www.maheshlangote.online](https://www.maheshlangote.online)
   
 
 - 📄 Know about my experiences [View My Resume](https://drive.google.com/open?id=14DU7-YvcHjdn1nfrrQhOsNvXSU2pXydW&usp=drive_fs)
