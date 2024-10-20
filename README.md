@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [www.maheshlangote.online](https://www.maheshlangote.online)
   
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/open?id=14DU7-YvcHjdn1nfrrQhOsNvXSU2pXydW&usp=drive_fs)
+- 📄 Know about my experiences [View My Resume](https://www.maheshlangote.online/static/media/Mahesh-Langote-Resume.8dd9b11a87218b1d0527.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
